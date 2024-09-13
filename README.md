@@ -50,11 +50,13 @@ The **AI-Assisted Job Applicant Assessment** project is an innovative tool desig
    ```bash
    git clone https://github.com/username/repository-name.git
 
-2. **Instlling Depemdencies**:
-     **Run Commnd** pip install -r requirements.txt
+2. **Instlling Depemdencies**:<br/>
+   ```bash
+    pip install -r requirements.txt
 
-3. **Run the Application**:
-   **Run Command** python manage.py runserver
+4. **Run the Application**:<br/>
+    ```bash
+    python manage.py runserver
 
 
 
@@ -64,4 +66,6 @@ The **AI-Assisted Job Applicant Assessment** project is an innovative tool desig
 - **Contact**: Provides a way for others to reach out to you, either through LinkedIn or by opening an issue in the repository.
 
 
-**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**
+**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**<br/>
+
+**Author**: Ansar Ul Haq
