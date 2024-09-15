@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'SocialNest',  #
         'USER': 'postgres',  
-        'PASSWORD': '**********',  
+        'PASSWORD': 'zxdews2',  
         'HOST': 'localhost',  
         'PORT': '5432',  
     }
